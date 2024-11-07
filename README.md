@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pilereactionplotter.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pile-reaction-plotter.streamlit.app/)
 ![GitHub License](https://img.shields.io/github/license/kunle009/pilereactionplotter)
 
 # Pile Reactions Plotter
