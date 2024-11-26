@@ -25,8 +25,6 @@ To ensure proper input, format your Excel file to have an header row you can sel
 | X  | Y  | Pile Reaction |
 |----|----|---------------|
 
-
-
 ## Installation
 
 1. Install `uv`:
